@@ -1,9 +1,0 @@
-1. Mover el fichero "presentations.md" a la carpeta "Content"
-
-2. Sustituir en el fichero: config.yaml 
-
-    - identifier: presentations
-      name: Students Presentations
-      url: /presentations/
-      weight: 4  
-

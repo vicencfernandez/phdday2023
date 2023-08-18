@@ -21,8 +21,8 @@ menu:
       url: /participants/
       weight: 3
     - identifier: enrollment
-      name: Student Presentations
-      url: /presentations/
+      name: Free Enrollment
+      url: https://github.com/vicencfernandez/
       weight: 4      
   topbar:
     - name: GitHub
