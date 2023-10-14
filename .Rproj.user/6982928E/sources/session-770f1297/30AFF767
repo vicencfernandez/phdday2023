@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/phdday2023/content/program.md",
     "project_path": "content/program.md",
     "type": "markdown",
-    "hash": "3528291869",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1697121972797.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "12,79",
-        "scrollLine": "7"
+        "cursorPosition": "16,91",
+        "scrollLine": "11"
     },
     "folds": "",
-    "lastKnownWriteTime": 1697122422,
+    "lastKnownWriteTime": 1697299380,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1697122422968,
+    "last_content_update": 1697299380214,
     "read_only": false,
     "read_only_alternatives": []
 }

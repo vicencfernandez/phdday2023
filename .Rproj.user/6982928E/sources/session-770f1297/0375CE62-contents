@@ -29,6 +29,12 @@ Vicenc Fernandez is Full Professor in Management and Business Analytics in the D
 
 Brian Harney is Professor in Strategy & HRM at DCU Business School where he is Programme Director of the BSc in Digital Business & Innovation and former Programme Director of the award-winning MSc in HRM (gradIreland Best Postgraduate Course 2016). In 2019 he was Co-Chair (with D. Collings) of the Academy of Management HR Division International Conference hosted by DCU. Brian’s research focuses on the intersection of Strategy and HRM, with a particular focus on SMEs, growth and knowledge-intensive sectors. His research has received over 15 Best Paper awards and is widely published. 
 
+### Dr. Foteini Kravariti
+
+![](/img/people/foteini.png) 
+
+Foteini Kravariti is an expert senior lecturer in talent management studies and has been awarded the 2019 Best Reviewer Award of Human Resource Development Review. She sits in the Editorial Advisory Board of the International Journal of Contemporary Hospitality Management and in the Steering Committee of the Research Methodology subject interest group at the British Academy of Management. Her current research interests include the areas of public sector talent management, talent management in emerging market economies, talent management in the hospitality and tourism industry, HR/talent analytics and constructive failure. She is very keen on cross-disciplinary research which adopts predominantly quantitative research methods.  
+
 ### Dr. Giacomo Negro
 
 ![](/img/people/negro.png) 
@@ -40,12 +46,6 @@ Giacomo Negro is Professor of Organization & Management and Professor of Sociolo
 ![](/img/people/satorra.png) 
 
 Albert Satorra is full professor of statistics at Universitat Pompeu Fabra (Barcelona), and a BSE Research Professor. His research topics focus on Multivariate Analysis, Structural Equation Models, Small Area Estimation, and Applied Statistics.
-
-### Dr. NAME
-
-![](/img/people/vicenc.png) 
-
-DESCRIPTION.
 
 ### Dr. NAME
 
