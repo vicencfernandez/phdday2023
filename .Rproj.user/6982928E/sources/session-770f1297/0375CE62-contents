@@ -47,9 +47,4 @@ Giacomo Negro is Professor of Organization & Management and Professor of Sociolo
 
 Albert Satorra is full professor of statistics at Universitat Pompeu Fabra (Barcelona), and a BSE Research Professor. His research topics focus on Multivariate Analysis, Structural Equation Models, Small Area Estimation, and Applied Statistics.
 
-### Dr. NAME
-
-![](/img/people/vicenc.png) 
-
-DESCRIPTION.
 
