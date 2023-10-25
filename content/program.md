@@ -22,7 +22,7 @@ title: Full Program - 15th November 2023
 *Discussion Panel (in alphabetical order):*
 * Dr. Brian Harney (*DCU Business School*)
 * Dr. Giacomo Negro (*Goizueta Business School*)
-* Dr. to be confirmed (*to be confirmed*)
+* Dr. Anita Van Gils (*Maastricht University - School of Business and Economics*)
 
 **1:15 p.m** Closing, by Dr. Eva Gallardo-Gallardo (*Universitat Politècnica de Catalunya · BarcelonaTech*)
 

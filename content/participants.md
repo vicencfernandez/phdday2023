@@ -47,4 +47,10 @@ Giacomo Negro is Professor of Organization & Management and Professor of Sociolo
 
 Albert Satorra is full professor of statistics at Universitat Pompeu Fabra (Barcelona), and a BSE Research Professor. His research topics focus on Multivariate Analysis, Structural Equation Models, Small Area Estimation, and Applied Statistics.
 
+### Dr. Anita Van Gils
+
+![](/img/people/anita.png) 
+
+Anita van Gils is an Full Professor in Entrepreneurship and Family Business Management at Maastricht University’s School of Business and Economics (SBE). She is also involved in the Centre for Entrepreneurship and Innovation at Maastricht University. Anita’s specialisations are Entrepreneurship, SME-management, Family Business, Strategy, Governance, and Innovation.
+
 
